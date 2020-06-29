@@ -1,1 +1,1 @@
-# Digit_classifitcation_CNN
+# Digit_classification_CNN
